@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+backend/config.py
